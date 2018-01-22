@@ -10,7 +10,7 @@ namespace Console_Sort
     {
         static void Main(string[] args)
         {
-            int[] array = new int[] { 6, 3, 9, 8 };
+            int[] array = new int[] { 6, 3, 9, 8, 5, 2, 1 };
             int tmp = 0;
             for (int i = 0; i < array.Length; i++)
             {
